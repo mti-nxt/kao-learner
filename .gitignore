@@ -1,0 +1,9 @@
+#画像ファイル系
+*.jpg
+*.png
+
+#チェックポイント系
+*.ckpt
+*.ckpt.*
+checkpoint
+
