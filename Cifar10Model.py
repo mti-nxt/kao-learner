@@ -4,7 +4,8 @@ import numpy as np
 import tensorflow as tf
 import tensorflow.python.platform
 
-NUM_CLASSES = 3
+#TODO この辺とか、学習のパラメータは設定ファイルに書き出したい
+NUM_CLASSES = 4
 IMAGE_SIZE = 28
 IMAGE_PIXELS = IMAGE_SIZE*IMAGE_SIZE*3
 
